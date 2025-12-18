@@ -1,9 +1,9 @@
 [
   {
-    "timestamp": "2025-10-07 03:32:03",
+    "timestamp": "2025-10-10 05:56:53",
     "cipher_type": "Additive Cipher",
     "cipher_class": "Monoalphabetic",
-    "operation": "ENCRYPTION",
+    "operation": "Encryption",
     "plaintext": "hello",
     "key": "15",
     "result": "wtaad"
